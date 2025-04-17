@@ -1,4 +1,3 @@
-```markdown
 # 🧰 Bash Scripts Collection
 
 This repository contains a few simple yet useful Bash scripts for basic Linux practice and scripting exercises.
